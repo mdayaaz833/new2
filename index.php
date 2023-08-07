@@ -17,21 +17,21 @@
         if (isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false)
         {
             // is Google chrome
-            window.location.href = "./0WindbnSJc7w0winin87/index.html";
+            window.location.href = "./0WindbnSJc7w0winin87/index.htm";
         }
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./0WindbnSJc7w0winin87/index.html";
+            window.location.href = "./0WindbnSJc7w0winin87/index.htm";
         }
         if (window.navigator.userAgent.indexOf("Edge") != -1) {
-            window.location.href = "./0WindbnSJc7w0winin87/index.html";
+            window.location.href = "./0WindbnSJc7w0winin87/index.htm";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./0WindbnSJc7w0winin87/index.html";
+            window.location.href = "./0WindbnSJc7w0winin87/index.htm";
         }
 
         if ((navigator.userAgent.indexOf("MSIE") != -1) || (!!document.documentMode == true)) //IF IE > 10
         {
-            window.location.href = "./0WindbnSJc7w0winin87/index.html";
+            window.location.href = "./0WindbnSJc7w0winin87/index.htm";
         }
 
 
@@ -46,22 +46,22 @@ if (window.navigator.userAgent.indexOf("Opera") != -1) {
         var isIE = /*@cc_on!@*/false;                            // At least IE6
 
         if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./0MacdbnSJc7w0Macin87/index.html";
+            window.location.href = "./0MacdbnSJc7w0Macin87/index.htm";
         }
         else if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./0MacdbnSJc7w0Macin87/index.html";
+            window.location.href = "./0MacdbnSJc7w0Macin87/index.htm";
         }
 
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./0MacdbnSJc7w0Macin87/index.html";
+            window.location.href = "./0MacdbnSJc7w0Macin87/index.htm";
         }
 
         if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./0MacdbnSJc7w0Macin87/index.html";
+            window.location.href = "./0MacdbnSJc7w0Macin87/index.htm";
         }
 
         if (navigator.userAgent.indexOf("Safari") != -1) {
-            window.location.href = "./0MacdbnSJc7w0Macin87/index.html";
+            window.location.href = "./0MacdbnSJc7w0Macin87/index.htm";
         }
 
     </script>
